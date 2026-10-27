@@ -1,0 +1,11 @@
+target/
+allure-results/
+allure-report/
+.allure/
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+src/test/resources/config.properties
